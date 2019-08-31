@@ -20,7 +20,7 @@ description: A website for Korean Conversation Group
 
 # List of links in the navigation bar
 navbar-links:
-  About KCG: "About KCG"
+  About KCG: "aboutme"
   Resources:
     - KCG Facebook: "https://www.facebook.com/groups/633156540044235/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
